@@ -1,5 +1,5 @@
 
-f = open('path/location','w')
+
 
 #for -------
 
